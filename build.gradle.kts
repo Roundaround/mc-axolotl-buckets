@@ -10,6 +10,7 @@ allay {
   homepage.set("https://modrinth.com/mod/axolotl-buckets")
   repository.set("https://github.com/Roundaround/mc-fabric-axolotl-buckets")
   issues.set("https://github.com/Roundaround/mc-fabric-axolotl-buckets/issues")
+  logoFile.set("assets/axolotlbuckets/banner.png")
 
   modrinth {
     projectId.set("axolotl-buckets")
