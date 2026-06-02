@@ -1,16 +1,22 @@
 plugins {
-  id("roundalib-gradle") version "1.0.0"
+  id("me.roundaround.allay")
 }
 
-roundalib {
-  library {
-    local = true
-    version = "3.3.0"
+allay {
+  displayName.set("Axolotl Buckets")
+  description.set("Show the color and age of axolotls when in buckets.")
+  authors.set(listOf("Roundaround"))
+  license.set("MIT")
+  homepage.set("https://modrinth.com/mod/axolotl-buckets")
+  repository.set("https://github.com/Roundaround/mc-fabric-axolotl-buckets")
+  issues.set("https://github.com/Roundaround/mc-fabric-axolotl-buckets/issues")
+
+  modrinth {
+    projectId.set("axolotl-buckets")
   }
-}
 
-fabricApi {
-  configureDataGeneration {
-    client = true
+  release {
+    versionType.set("release")
+    sourcesJar.set(true)
   }
 }

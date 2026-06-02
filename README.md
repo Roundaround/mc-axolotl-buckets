@@ -1,21 +1,24 @@
-# Roundaround's Axolotl Buckets
+![Axolotl Buckets](https://imgur.com/Il257vf.png)
 
-<img src="https://img.shields.io/badge/Loader-Fabric-%23313e51?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MC-1.20%20|%201.19--1.19.4-%23313e51?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Side-Client-%23313e51?style=for-the-badge"/>
+![](https://img.shields.io/badge/Loader-Fabric-%23313e51?style=for-the-badge)
+![](https://img.shields.io/badge/MC-26.1--26.1.2%20|%201.21%20|%201.20%20|%201.19%20|%201.18.2-%23313e51?style=for-the-badge)
+![](https://img.shields.io/badge/Side-Client-%23313e51?style=for-the-badge)
 
-Show the color and age of axolotls when in buckets.
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/axolotl-buckets?style=flat&logo=modrinth&color=00AF5C)](https://modrinth.com/mod/axolotl-buckets)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Roundaround/mc-fabric-axolotl-buckets?style=flat&logo=github)](https://github.com/Roundaround/mc-fabric-axolotl-buckets)
 
-## Download
+[![Support me on Ko-fi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular-alt_vector.svg)](https://ko-fi.com/roundaround)
 
-https://modrinth.com/mod/axolotl-buckets
+---
 
-## Credits
+Allows axolotls in buckets to have their own icon depending on their color and age! Show off those blue baby axolotls in your inventory!
+
+![All variants in their buckets](https://cdn.modrinth.com/data/6tlhZmC5/images/9f93993f3b59728310fd58cf05095ffe49b4a8b9.png)
+
+If you are using the "Smaller Utilities" pack from Vanilla Tweaks, go into your Resource Packs screen and enable the built-in "Smaller Axolotl Buckets" resource pack with this mod's logo!
+
+---
 
 Original textures by Blazified on Planet Minecraft:
 
 https://www.planetminecraft.com/texture-pack/colored-axolotl-buckets-with-babies/
-
-## License
-
-This mod is available under the MIT license. Please see the LICENSE file for more info.

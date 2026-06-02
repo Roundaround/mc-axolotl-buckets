@@ -1,0 +1,10 @@
+classTweaker v1 official
+
+# ConditionalItemModelProperties.ID_MAPPER is the late-bound registry for custom
+# item-model conditional properties. It is private in MC 26.1+ mojmaps. The legacy
+# Loom build resolved the game jar with this member accessible so the original
+# Fabric code could register this mod's "baby" property directly. Allay does not
+# auto-widen vanilla members, so the access must be declared explicitly. Fabric
+# copies this through (fabric.mod.json accessWidener field); NeoForge/Forge
+# translate it to META-INF/accesstransformer.cfg.
+accessible field net/minecraft/client/renderer/item/properties/conditional/ConditionalItemModelProperties ID_MAPPER Lnet/minecraft/util/ExtraCodecs$LateBoundIdMapper;
