@@ -8,8 +8,8 @@ allay {
   authors.set(listOf("Roundaround"))
   license.set("MIT")
   homepage.set("https://modrinth.com/mod/axolotl-buckets")
-  repository.set("https://github.com/Roundaround/mc-fabric-axolotl-buckets")
-  issues.set("https://github.com/Roundaround/mc-fabric-axolotl-buckets/issues")
+  repository.set("https://github.com/Roundaround/mc-axolotl-buckets")
+  issues.set("https://github.com/Roundaround/mc-axolotl-buckets/issues")
   logoFile.set("assets/axolotlbuckets/banner.png")
 
   modrinth {
