@@ -22,6 +22,10 @@ allay {
     projectId.set("axolotl-buckets")
   }
 
+  curseforge {
+    projectId.set(1570109)
+  }
+
   release {
     versionType.set("release")
     sourcesJar.set(true)
