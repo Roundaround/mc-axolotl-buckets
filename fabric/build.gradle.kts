@@ -17,4 +17,7 @@ allay {
 dependencies {
   libBundle(platform(libs.trove.bom))
   libBundle(libs.trove.fabric.core)
+
+  gametestImplementation(platform(libs.trove.bom))
+  gametestImplementation(libs.trove.fabric.gametest)
 }
